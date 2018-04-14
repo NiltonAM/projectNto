@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: nto
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PC07
+Implementation-Vendor-Id: com.nto.jpa
+Build-Jdk: 1.8.0_162
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/nto
+Created-By: Maven Integration for Eclipse
+
