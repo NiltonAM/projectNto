@@ -16,7 +16,7 @@ import javax.validation.constraints.NotNull;
  * The Class Person.
  */
 @Entity
-@Table(name = "person")
+@Table(name = "persona")
 public class Person {
 
 	@Id
